@@ -1,7 +1,7 @@
 {
-  "name": "ionic-learn",
+  "name": "learn",
   "integrations": {
     "capacitor": {}
   },
-  "type": "vue-vite"
+  "type": "angular"
 }
