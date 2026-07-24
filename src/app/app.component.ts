@@ -7,13 +7,14 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public appPages = [
-    { title: 'Inbox', url: '/folder/inbox', icon: 'mail' },
-    { title: 'Outbox', url: '/folder/outbox', icon: 'paper-plane' },
-    { title: 'Favorites', url: '/folder/favorites', icon: 'heart' },
-    { title: 'Archived', url: '/folder/archived', icon: 'archive' },
-    { title: 'Trash', url: '/folder/trash', icon: 'trash' },
-    { title: 'Spam', url: '/folder/spam', icon: 'warning' },
+    { title: 'Piadas para você', url: '/folder/Piadas para você', icon: 'happy' },
+    { title: 'Enigmas para você', url: '/folder/Enigmas para você', icon: 'help-circle' },
+    { title: 'Piadas para compartilhar', url: '/folder/Piadas para compartilhar', icon: 'person-add' },
+    { title: 'Piadas favoritas', url: '/folder/Piadas favoritas', icon: 'heart' },
+    { title: 'Enigmas favoritos', url: '/folder/Enigmas favoritos', icon: 'heart-circle' },
+    { title: 'Criar Piadas', url: '/folder/Criar Piadas', icon: 'add' },
+    { title: 'Criar Enigmas', url: '/folder/Criar Enigmas', icon: 'add' },
   ];
-  public labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
+  public labels = ['Criar piadas', 'Criar enigmas'];
   constructor() {}
 }
