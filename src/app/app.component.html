@@ -20,7 +20,10 @@
     <ion-router-outlet id="main-content"></ion-router-outlet>
   </ion-split-pane>
 </ion-app>
-<ion-button (click)="mostrarCarinha()"></ion-button>
+<ion-button class="emoji-btn" (click)="mostrarCarinha()">
+  <ion-icon slot="start" name="happy"></ion-icon>
+  Mostrar carinha
+</ion-button>
 
 @if (mostrarEmoji) {
   <div class="emoji-overlay" (click)="mostrarEmoji = false">
