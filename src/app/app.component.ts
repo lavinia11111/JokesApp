@@ -17,4 +17,9 @@ export class AppComponent {
   ];
   public labels = ['Criar piadas', 'Criar enigmas'];
   constructor() {}
+public mostrarEmoji = false;
+
+mostrarCarinha() {
+  this.mostrarEmoji = true;
+}
 }

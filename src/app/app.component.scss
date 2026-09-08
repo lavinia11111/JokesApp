@@ -117,3 +117,17 @@ ion-note {
 ion-item.selected {
   --color: var(--ion-color-primary);
 }
+.emoji-overlay {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 99999;
+}
+
+.happy-emoji {
+  font-size: 160px;
+}
+
