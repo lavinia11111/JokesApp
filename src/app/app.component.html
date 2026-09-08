@@ -20,13 +20,21 @@
     <ion-router-outlet id="main-content"></ion-router-outlet>
   </ion-split-pane>
 </ion-app>
+
 <ion-button class="emoji-btn" (click)="mostrarCarinha()">
- 
-  
 </ion-button>
 
 @if (mostrarEmoji) {
   <div class="emoji-overlay" (click)="mostrarEmoji = false">
     <span class="happy-emoji">😀</span>
+  </div>
+}
+
+<ion-button class="emoji" (click)="mostrarCarinha()">
+</ion-button>
+
+@if (mostrarEmoji) {
+  <div class="emoji-overlay" (click)="mostrarEmoji = false">
+    <span class="emoji">😜</span>
   </div>
 }
