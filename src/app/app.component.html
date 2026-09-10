@@ -21,20 +21,20 @@
   </ion-split-pane>
 </ion-app>
 
-<ion-button class="emoji-btn" (click)="mostrarCarinha()">
+<ion-button class="emoji-btn" (click)="mostrarFeliz()">
 </ion-button>
 
-@if (mostrarEmoji) {
-  <div class="emoji-overlay" (click)="mostrarEmoji = false">
+@if (emojiFeliz) {
+  <div class="emoji-overlay" (click)="emojiFeliz = false">
     <span class="happy-emoji">😀</span>
   </div>
 }
 
-<ion-button class="emoji" (click)="mostrarCarinha()">
+<ion-button class="emoji" (click)="mostrarLingua()">
 </ion-button>
 
-@if (mostrarEmoji) {
-  <div class="emoji-overlay" (click)="mostrarEmoji = false">
+@if (emojiLingua) {
+  <div class="emoji-overlay" (click)="emojiLingua = false">
     <span class="emoji">😜</span>
   </div>
 }

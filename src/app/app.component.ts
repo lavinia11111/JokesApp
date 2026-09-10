@@ -15,11 +15,16 @@ export class AppComponent {
     { title: 'Criar Piadas', url: '/folder/Criar Piadas', icon: 'add' },
     { title: 'Criar Enigmas', url: '/folder/Criar Enigmas', icon: 'add' },
   ];
-  public labels = ['Criar piadas', 'Criar enigmas'];
-  constructor() {}
-public mostrarEmoji = false;
 
-mostrarCarinha() {
-  this.mostrarEmoji = true;
-}
+  public labels = ['Criar piadas', 'Criar enigmas'];
+  public emojiFeliz = false;
+  public emojiLingua = false;
+
+  mostrarFeliz() {
+    this.emojiFeliz = true;
+  }
+
+  mostrarLingua() {
+    this.emojiLingua = true;
+  }
 }
