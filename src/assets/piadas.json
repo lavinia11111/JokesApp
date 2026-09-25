@@ -1,0 +1,5002 @@
+[
+  {
+    "id": 1,
+    "question": "Por que o gato foi para a escola?",
+    "answer": "Porque queria aprender a se comportar!"
+  },
+  {
+    "id": 2,
+    "question": "Por que o papagaio foi para a academia?",
+    "answer": "Porque queria aprender a se comportar!"
+  },
+  {
+    "id": 3,
+    "question": "Por que o galinha foi para a escola?",
+    "answer": "Porque, afinal, queria aprender a se comportar!"
+  },
+  {
+    "id": 4,
+    "question": "Por que o cavalo foi para a academia?",
+    "answer": "Porque queria aprender a se comportar mesmo!"
+  },
+  {
+    "id": 5,
+    "question": "Por que o coelho foi para a escola?",
+    "answer": "Porque queria aprender a se comportar 😂"
+  },
+  {
+    "id": 6,
+    "question": "Por que o gato foi para a academia?",
+    "answer": "Porque queria aprender a se comportar!"
+  },
+  {
+    "id": 7,
+    "question": "Por que o papagaio foi para a escola?",
+    "answer": "Porque queria aprender a se comportar!"
+  },
+  {
+    "id": 8,
+    "question": "Por que o galinha foi para a academia?",
+    "answer": "Porque, afinal, queria aprender a se comportar!"
+  },
+  {
+    "id": 9,
+    "question": "Por que o cavalo foi para a escola?",
+    "answer": "Porque queria aprender a se comportar mesmo!"
+  },
+  {
+    "id": 10,
+    "question": "Por que o coelho foi para a academia?",
+    "answer": "Porque queria aprender a se comportar 😂"
+  },
+  {
+    "id": 11,
+    "question": "O que o cachorro disse quando viu um celular?",
+    "answer": "Que aquilo era super estranho!"
+  },
+  {
+    "id": 12,
+    "question": "O que o pato disse quando viu um guarda-chuva?",
+    "answer": "Que aquilo era muito estranho!"
+  },
+  {
+    "id": 13,
+    "question": "O que o vaca disse quando viu um cadeira?",
+    "answer": "Que aquilo era muito estranho mesmo!"
+  },
+  {
+    "id": 14,
+    "question": "O que o peixe disse quando viu um computador?",
+    "answer": "Que aquilo era muito estranho 😂"
+  },
+  {
+    "id": 15,
+    "question": "O que o macaco disse quando viu um relógio?",
+    "answer": "Que aquilo era muito estranho!"
+  },
+  {
+    "id": 16,
+    "question": "O que o cachorro disse quando viu um óculos?",
+    "answer": "Que aquilo era super estranho!"
+  },
+  {
+    "id": 17,
+    "question": "O que o pato disse quando viu um teclado?",
+    "answer": "Que aquilo era muito estranho!"
+  },
+  {
+    "id": 18,
+    "question": "O que o vaca disse quando viu um livro?",
+    "answer": "Que aquilo era muito estranho mesmo!"
+  },
+  {
+    "id": 19,
+    "question": "O que o peixe disse quando viu um lápis?",
+    "answer": "Que aquilo era muito estranho 😂"
+  },
+  {
+    "id": 20,
+    "question": "O que o macaco disse quando viu um caderno?",
+    "answer": "Que aquilo era muito estranho!"
+  },
+  {
+    "id": 21,
+    "question": "Por que Pedro levou um livro para a padaria?",
+    "answer": "Porque, afinal, achou que seria útil na missão!"
+  },
+  {
+    "id": 22,
+    "question": "Por que Ana levou um lápis para a parque?",
+    "answer": "Porque achou que seria útil na missão mesmo!"
+  },
+  {
+    "id": 23,
+    "question": "Por que Carlos levou um caderno para a padaria?",
+    "answer": "Porque achou que seria útil na missão 😂"
+  },
+  {
+    "id": 24,
+    "question": "Por que Lucas levou um celular para a parque?",
+    "answer": "Porque achou que seria útil na missão!"
+  },
+  {
+    "id": 25,
+    "question": "Por que Paula levou um guarda-chuva para a padaria?",
+    "answer": "Porque achou que seria útil na missão!"
+  },
+  {
+    "id": 26,
+    "question": "Por que Bruno levou um cadeira para a parque?",
+    "answer": "Porque, afinal, achou que seria útil na missão!"
+  },
+  {
+    "id": 27,
+    "question": "Por que Bia levou um computador para a padaria?",
+    "answer": "Porque achou que seria útil na missão mesmo!"
+  },
+  {
+    "id": 28,
+    "question": "Por que Rafa levou um relógio para a parque?",
+    "answer": "Porque achou que seria útil na missão 😂"
+  },
+  {
+    "id": 29,
+    "question": "Por que João levou um óculos para a padaria?",
+    "answer": "Porque achou que seria útil na missão!"
+  },
+  {
+    "id": 30,
+    "question": "Por que Maria levou um teclado para a parque?",
+    "answer": "Porque achou que seria útil na missão!"
+  },
+  {
+    "id": 31,
+    "question": "Qual é a comida que sempre conta piada?",
+    "answer": "A sorvete, porque ela é muito engraçada mesmo!"
+  },
+  {
+    "id": 32,
+    "question": "Qual é a comida que sempre conta piada?",
+    "answer": "A brigadeiro, porque ela é muito engraçada 😂"
+  },
+  {
+    "id": 33,
+    "question": "Qual é a comida que sempre conta piada?",
+    "answer": "A banana, porque ela é muito engraçada!"
+  },
+  {
+    "id": 34,
+    "question": "Qual é a comida que sempre conta piada?",
+    "answer": "A sanduíche, porque ela é super engraçada!"
+  },
+  {
+    "id": 35,
+    "question": "Qual é a comida que sempre conta piada?",
+    "answer": "A pastel, porque ela é muito engraçada!"
+  },
+  {
+    "id": 36,
+    "question": "Por que o guarda-chuva ficou em casa?",
+    "answer": "Porque estava sem energia para sair 😂"
+  },
+  {
+    "id": 37,
+    "question": "Por que o cadeira ficou em casa?",
+    "answer": "Porque estava sem energia para sair!"
+  },
+  {
+    "id": 38,
+    "question": "Por que o computador ficou em casa?",
+    "answer": "Porque estava sem energia para sair!"
+  },
+  {
+    "id": 39,
+    "question": "Por que o relógio ficou em casa?",
+    "answer": "Porque, afinal, estava sem energia para sair!"
+  },
+  {
+    "id": 40,
+    "question": "Por que o óculos ficou em casa?",
+    "answer": "Porque estava sem energia para sair mesmo!"
+  },
+  {
+    "id": 41,
+    "question": "Por que o teclado ficou em casa?",
+    "answer": "Porque estava sem energia para sair 😂"
+  },
+  {
+    "id": 42,
+    "question": "Por que o livro ficou em casa?",
+    "answer": "Porque estava sem energia para sair!"
+  },
+  {
+    "id": 43,
+    "question": "Por que o lápis ficou em casa?",
+    "answer": "Porque estava sem energia para sair!"
+  },
+  {
+    "id": 44,
+    "question": "Por que o caderno ficou em casa?",
+    "answer": "Porque, afinal, estava sem energia para sair!"
+  },
+  {
+    "id": 45,
+    "question": "Por que o celular ficou em casa?",
+    "answer": "Porque estava sem energia para sair mesmo!"
+  },
+  {
+    "id": 46,
+    "question": "O que acontece quando o vaca come sanduíche?",
+    "answer": "Ele fica com muita vontade de repetir!"
+  },
+  {
+    "id": 47,
+    "question": "O que acontece quando o peixe come pastel?",
+    "answer": "Ele fica com muita vontade de repetir!"
+  },
+  {
+    "id": 48,
+    "question": "O que acontece quando o macaco come sorvete?",
+    "answer": "Ele fica com muita vontade de repetir!"
+  },
+  {
+    "id": 49,
+    "question": "O que acontece quando o cachorro come brigadeiro?",
+    "answer": "Ele fica com muita vontade de repetir mesmo!"
+  },
+  {
+    "id": 50,
+    "question": "O que acontece quando o pato come banana?",
+    "answer": "Ele fica com muita vontade de repetir 😂"
+  },
+  {
+    "id": 51,
+    "question": "Por que Paula chegou cedo à farmácia?",
+    "answer": "Porque queria pegar o melhor lugar!"
+  },
+  {
+    "id": 52,
+    "question": "Por que Bruno chegou cedo à biblioteca?",
+    "answer": "Porque, afinal, queria pegar o melhor lugar!"
+  },
+  {
+    "id": 53,
+    "question": "Por que Bia chegou cedo à farmácia?",
+    "answer": "Porque queria pegar o melhor lugar mesmo!"
+  },
+  {
+    "id": 54,
+    "question": "Por que Rafa chegou cedo à biblioteca?",
+    "answer": "Porque queria pegar o melhor lugar 😂"
+  },
+  {
+    "id": 55,
+    "question": "Por que João chegou cedo à farmácia?",
+    "answer": "Porque queria pegar o melhor lugar!"
+  },
+  {
+    "id": 56,
+    "question": "Por que Maria chegou cedo à biblioteca?",
+    "answer": "Porque queria pegar o melhor lugar!"
+  },
+  {
+    "id": 57,
+    "question": "Por que Pedro chegou cedo à farmácia?",
+    "answer": "Porque, afinal, queria pegar o melhor lugar!"
+  },
+  {
+    "id": 58,
+    "question": "Por que Ana chegou cedo à biblioteca?",
+    "answer": "Porque queria pegar o melhor lugar mesmo!"
+  },
+  {
+    "id": 59,
+    "question": "Por que Carlos chegou cedo à farmácia?",
+    "answer": "Porque queria pegar o melhor lugar 😂"
+  },
+  {
+    "id": 60,
+    "question": "Por que Lucas chegou cedo à biblioteca?",
+    "answer": "Porque queria pegar o melhor lugar!"
+  },
+  {
+    "id": 61,
+    "question": "Qual é o lugar favorito do peixe?",
+    "answer": "A parque, porque lá sempre tem diversão!"
+  },
+  {
+    "id": 62,
+    "question": "Qual é o lugar favorito do macaco?",
+    "answer": "A padaria, porque lá sempre tem diversão mesmo!"
+  },
+  {
+    "id": 63,
+    "question": "Qual é o lugar favorito do cachorro?",
+    "answer": "A parque, porque lá sempre tem diversão 😂"
+  },
+  {
+    "id": 64,
+    "question": "Qual é o lugar favorito do pato?",
+    "answer": "A padaria, porque lá sempre tem diversão!"
+  },
+  {
+    "id": 65,
+    "question": "Qual é o lugar favorito do vaca?",
+    "answer": "A parque, porque lá sempre tem diversão!"
+  },
+  {
+    "id": 66,
+    "question": "Qual é o lugar favorito do peixe?",
+    "answer": "A padaria, porque lá sempre tem diversão!"
+  },
+  {
+    "id": 67,
+    "question": "Qual é o lugar favorito do macaco?",
+    "answer": "A parque, porque lá sempre tem diversão mesmo!"
+  },
+  {
+    "id": 68,
+    "question": "Qual é o lugar favorito do cachorro?",
+    "answer": "A padaria, porque lá sempre tem diversão 😂"
+  },
+  {
+    "id": 69,
+    "question": "Qual é o lugar favorito do pato?",
+    "answer": "A parque, porque lá sempre tem diversão!"
+  },
+  {
+    "id": 70,
+    "question": "Qual é o lugar favorito do vaca?",
+    "answer": "A padaria, porque lá sempre tem diversão!"
+  },
+  {
+    "id": 71,
+    "question": "Por que o caderno foi ao médico?",
+    "answer": "Porque estava precisando de um conserto mesmo!"
+  },
+  {
+    "id": 72,
+    "question": "Por que o celular foi ao médico?",
+    "answer": "Porque estava precisando de um conserto 😂"
+  },
+  {
+    "id": 73,
+    "question": "Por que o guarda-chuva foi ao médico?",
+    "answer": "Porque estava precisando de um conserto!"
+  },
+  {
+    "id": 74,
+    "question": "Por que o cadeira foi ao médico?",
+    "answer": "Porque estava precisando de um conserto!"
+  },
+  {
+    "id": 75,
+    "question": "Por que o computador foi ao médico?",
+    "answer": "Porque, afinal, estava precisando de um conserto!"
+  },
+  {
+    "id": 76,
+    "question": "Por que o relógio foi ao médico?",
+    "answer": "Porque estava precisando de um conserto mesmo!"
+  },
+  {
+    "id": 77,
+    "question": "Por que o óculos foi ao médico?",
+    "answer": "Porque estava precisando de um conserto 😂"
+  },
+  {
+    "id": 78,
+    "question": "Por que o teclado foi ao médico?",
+    "answer": "Porque estava precisando de um conserto!"
+  },
+  {
+    "id": 79,
+    "question": "Por que o livro foi ao médico?",
+    "answer": "Porque estava precisando de um conserto!"
+  },
+  {
+    "id": 80,
+    "question": "Por que o lápis foi ao médico?",
+    "answer": "Porque, afinal, estava precisando de um conserto!"
+  },
+  {
+    "id": 81,
+    "question": "O que o macaco faz quando está com frio?",
+    "answer": "Procura um cantinho quentinho para descansar 😂"
+  },
+  {
+    "id": 82,
+    "question": "O que o cachorro faz quando está com frio?",
+    "answer": "Procura um cantinho quentinho para descansar!"
+  },
+  {
+    "id": 83,
+    "question": "O que o pato faz quando está com frio?",
+    "answer": "Procura um cantinho quentinho para descansar!"
+  },
+  {
+    "id": 84,
+    "question": "O que o vaca faz quando está com frio?",
+    "answer": "Procura um cantinho quentinho para descansar!"
+  },
+  {
+    "id": 85,
+    "question": "O que o peixe faz quando está com frio?",
+    "answer": "Procura um cantinho quentinho para descansar mesmo!"
+  },
+  {
+    "id": 86,
+    "question": "Por que João comprou pizza?",
+    "answer": "Porque estava com fome e não resistiu!"
+  },
+  {
+    "id": 87,
+    "question": "Por que Maria comprou coxinha?",
+    "answer": "Porque estava com fome e não resistiu!"
+  },
+  {
+    "id": 88,
+    "question": "Por que Pedro comprou melancia?",
+    "answer": "Porque, afinal, estava com fome e não resistiu!"
+  },
+  {
+    "id": 89,
+    "question": "Por que Ana comprou pipoca?",
+    "answer": "Porque estava com fome e não resistiu mesmo!"
+  },
+  {
+    "id": 90,
+    "question": "Por que Carlos comprou bolo?",
+    "answer": "Porque estava com fome e não resistiu 😂"
+  },
+  {
+    "id": 91,
+    "question": "Por que Lucas comprou pizza?",
+    "answer": "Porque estava com fome e não resistiu!"
+  },
+  {
+    "id": 92,
+    "question": "Por que Paula comprou coxinha?",
+    "answer": "Porque estava com fome e não resistiu!"
+  },
+  {
+    "id": 93,
+    "question": "Por que Bruno comprou melancia?",
+    "answer": "Porque, afinal, estava com fome e não resistiu!"
+  },
+  {
+    "id": 94,
+    "question": "Por que Bia comprou pipoca?",
+    "answer": "Porque estava com fome e não resistiu mesmo!"
+  },
+  {
+    "id": 95,
+    "question": "Por que Rafa comprou bolo?",
+    "answer": "Porque estava com fome e não resistiu 😂"
+  },
+  {
+    "id": 96,
+    "question": "Qual é o sonho do celular?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão!"
+  },
+  {
+    "id": 97,
+    "question": "Qual é o sonho do guarda-chuva?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão!"
+  },
+  {
+    "id": 98,
+    "question": "Qual é o sonho do cadeira?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão mesmo!"
+  },
+  {
+    "id": 99,
+    "question": "Qual é o sonho do computador?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão 😂"
+  },
+  {
+    "id": 100,
+    "question": "Qual é o sonho do relógio?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão!"
+  },
+  {
+    "id": 101,
+    "question": "Qual é o sonho do óculos?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão!"
+  },
+  {
+    "id": 102,
+    "question": "Qual é o sonho do teclado?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão!"
+  },
+  {
+    "id": 103,
+    "question": "Qual é o sonho do livro?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão mesmo!"
+  },
+  {
+    "id": 104,
+    "question": "Qual é o sonho do lápis?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão 😂"
+  },
+  {
+    "id": 105,
+    "question": "Qual é o sonho do caderno?",
+    "answer": "Ter um dia de descanso sem ninguém apertar nenhum botão!"
+  },
+  {
+    "id": 106,
+    "question": "Por que o papagaio gosta de estudar?",
+    "answer": "Porque, afinal, quer ser um animal muito inteligente!"
+  },
+  {
+    "id": 107,
+    "question": "Por que o galinha gosta de estudar?",
+    "answer": "Porque quer ser um animal muito inteligente mesmo!"
+  },
+  {
+    "id": 108,
+    "question": "Por que o cavalo gosta de estudar?",
+    "answer": "Porque quer ser um animal muito inteligente 😂"
+  },
+  {
+    "id": 109,
+    "question": "Por que o coelho gosta de estudar?",
+    "answer": "Porque quer ser um animal muito inteligente!"
+  },
+  {
+    "id": 110,
+    "question": "Por que o gato gosta de estudar?",
+    "answer": "Porque quer ser um animal super inteligente!"
+  },
+  {
+    "id": 111,
+    "question": "O que Ana disse ao ver um pato?",
+    "answer": "Que encontro inesperado mesmo!"
+  },
+  {
+    "id": 112,
+    "question": "O que Carlos disse ao ver um vaca?",
+    "answer": "Que encontro inesperado 😂"
+  },
+  {
+    "id": 113,
+    "question": "O que Lucas disse ao ver um peixe?",
+    "answer": "Que encontro inesperado!"
+  },
+  {
+    "id": 114,
+    "question": "O que Paula disse ao ver um macaco?",
+    "answer": "Que encontro inesperado!"
+  },
+  {
+    "id": 115,
+    "question": "O que Bruno disse ao ver um cachorro?",
+    "answer": "Que encontro inesperado!"
+  },
+  {
+    "id": 116,
+    "question": "O que Bia disse ao ver um pato?",
+    "answer": "Que encontro inesperado mesmo!"
+  },
+  {
+    "id": 117,
+    "question": "O que Rafa disse ao ver um vaca?",
+    "answer": "Que encontro inesperado 😂"
+  },
+  {
+    "id": 118,
+    "question": "O que João disse ao ver um peixe?",
+    "answer": "Que encontro inesperado!"
+  },
+  {
+    "id": 119,
+    "question": "O que Maria disse ao ver um macaco?",
+    "answer": "Que encontro inesperado!"
+  },
+  {
+    "id": 120,
+    "question": "O que Pedro disse ao ver um cachorro?",
+    "answer": "Que encontro inesperado!"
+  },
+  {
+    "id": 121,
+    "question": "Por que o guarda-chuva foi para a cinema?",
+    "answer": "Porque ouviu dizer que lá havia novidades 😂"
+  },
+  {
+    "id": 122,
+    "question": "Por que o cadeira foi para a banco?",
+    "answer": "Porque ouviu dizer que lá havia novidades!"
+  },
+  {
+    "id": 123,
+    "question": "Por que o computador foi para a cinema?",
+    "answer": "Porque ouviu dizer que lá havia novidades!"
+  },
+  {
+    "id": 124,
+    "question": "Por que o relógio foi para a banco?",
+    "answer": "Porque, afinal, ouviu dizer que lá havia novidades!"
+  },
+  {
+    "id": 125,
+    "question": "Por que o óculos foi para a cinema?",
+    "answer": "Porque ouviu dizer que lá havia novidades mesmo!"
+  },
+  {
+    "id": 126,
+    "question": "Por que o teclado foi para a banco?",
+    "answer": "Porque ouviu dizer que lá havia novidades 😂"
+  },
+  {
+    "id": 127,
+    "question": "Por que o livro foi para a cinema?",
+    "answer": "Porque ouviu dizer que lá havia novidades!"
+  },
+  {
+    "id": 128,
+    "question": "Por que o lápis foi para a banco?",
+    "answer": "Porque ouviu dizer que lá havia novidades!"
+  },
+  {
+    "id": 129,
+    "question": "Por que o caderno foi para a cinema?",
+    "answer": "Porque, afinal, ouviu dizer que lá havia novidades!"
+  },
+  {
+    "id": 130,
+    "question": "Por que o celular foi para a banco?",
+    "answer": "Porque ouviu dizer que lá havia novidades mesmo!"
+  },
+  {
+    "id": 131,
+    "question": "Qual é o lanche favorito do vaca?",
+    "answer": "Qualquer coisa que esteja na hora do lanche!"
+  },
+  {
+    "id": 132,
+    "question": "Qual é o lanche favorito do peixe?",
+    "answer": "Qualquer coisa que esteja na hora do lanche!"
+  },
+  {
+    "id": 133,
+    "question": "Qual é o lanche favorito do macaco?",
+    "answer": "Qualquer coisa que esteja na hora do lanche!"
+  },
+  {
+    "id": 134,
+    "question": "Qual é o lanche favorito do cachorro?",
+    "answer": "Qualquer coisa que esteja na hora do lanche mesmo!"
+  },
+  {
+    "id": 135,
+    "question": "Qual é o lanche favorito do pato?",
+    "answer": "Qualquer coisa que esteja na hora do lanche 😂"
+  },
+  {
+    "id": 136,
+    "question": "Por que Paula levou um bolo para a farmácia?",
+    "answer": "Porque queria fazer um lanche no caminho!"
+  },
+  {
+    "id": 137,
+    "question": "Por que Bruno levou um pizza para a biblioteca?",
+    "answer": "Porque, afinal, queria fazer um lanche no caminho!"
+  },
+  {
+    "id": 138,
+    "question": "Por que Bia levou um coxinha para a farmácia?",
+    "answer": "Porque queria fazer um lanche no caminho mesmo!"
+  },
+  {
+    "id": 139,
+    "question": "Por que Rafa levou um melancia para a biblioteca?",
+    "answer": "Porque queria fazer um lanche no caminho 😂"
+  },
+  {
+    "id": 140,
+    "question": "Por que João levou um pipoca para a farmácia?",
+    "answer": "Porque queria fazer um lanche no caminho!"
+  },
+  {
+    "id": 141,
+    "question": "Por que Maria levou um bolo para a biblioteca?",
+    "answer": "Porque queria fazer um lanche no caminho!"
+  },
+  {
+    "id": 142,
+    "question": "Por que Pedro levou um pizza para a farmácia?",
+    "answer": "Porque, afinal, queria fazer um lanche no caminho!"
+  },
+  {
+    "id": 143,
+    "question": "Por que Ana levou um coxinha para a biblioteca?",
+    "answer": "Porque queria fazer um lanche no caminho mesmo!"
+  },
+  {
+    "id": 144,
+    "question": "Por que Carlos levou um melancia para a farmácia?",
+    "answer": "Porque queria fazer um lanche no caminho 😂"
+  },
+  {
+    "id": 145,
+    "question": "Por que Lucas levou um pipoca para a biblioteca?",
+    "answer": "Porque queria fazer um lanche no caminho!"
+  },
+  {
+    "id": 146,
+    "question": "O que o cadeira falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa!"
+  },
+  {
+    "id": 147,
+    "question": "O que o computador falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa mesmo!"
+  },
+  {
+    "id": 148,
+    "question": "O que o relógio falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa 😂"
+  },
+  {
+    "id": 149,
+    "question": "O que o óculos falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa!"
+  },
+  {
+    "id": 150,
+    "question": "O que o teclado falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa!"
+  },
+  {
+    "id": 151,
+    "question": "O que o livro falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa!"
+  },
+  {
+    "id": 152,
+    "question": "O que o lápis falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa mesmo!"
+  },
+  {
+    "id": 153,
+    "question": "O que o caderno falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa 😂"
+  },
+  {
+    "id": 154,
+    "question": "O que o celular falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa!"
+  },
+  {
+    "id": 155,
+    "question": "O que o guarda-chuva falou quando ficou cansado?",
+    "answer": "Preciso de uma pausa!"
+  },
+  {
+    "id": 156,
+    "question": "Por que o coelho entrou no restaurante?",
+    "answer": "Porque a porta estava aberta mesmo!"
+  },
+  {
+    "id": 157,
+    "question": "Por que o gato entrou no mercado?",
+    "answer": "Porque a porta estava aberta 😂"
+  },
+  {
+    "id": 158,
+    "question": "Por que o papagaio entrou no restaurante?",
+    "answer": "Porque a porta estava aberta!"
+  },
+  {
+    "id": 159,
+    "question": "Por que o galinha entrou no mercado?",
+    "answer": "Porque a porta estava aberta!"
+  },
+  {
+    "id": 160,
+    "question": "Por que o cavalo entrou no restaurante?",
+    "answer": "Porque, afinal, a porta estava aberta!"
+  },
+  {
+    "id": 161,
+    "question": "Por que o coelho entrou no mercado?",
+    "answer": "Porque a porta estava aberta mesmo!"
+  },
+  {
+    "id": 162,
+    "question": "Por que o gato entrou no restaurante?",
+    "answer": "Porque a porta estava aberta 😂"
+  },
+  {
+    "id": 163,
+    "question": "Por que o papagaio entrou no mercado?",
+    "answer": "Porque a porta estava aberta!"
+  },
+  {
+    "id": 164,
+    "question": "Por que o galinha entrou no restaurante?",
+    "answer": "Porque a porta estava aberta!"
+  },
+  {
+    "id": 165,
+    "question": "Por que o cavalo entrou no mercado?",
+    "answer": "Porque, afinal, a porta estava aberta!"
+  },
+  {
+    "id": 166,
+    "question": "Qual é a desculpa do teclado quando atrasa?",
+    "answer": "Eu perdi a hora 😂"
+  },
+  {
+    "id": 167,
+    "question": "Qual é a desculpa do livro quando atrasa?",
+    "answer": "Eu perdi a hora!"
+  },
+  {
+    "id": 168,
+    "question": "Qual é a desculpa do lápis quando atrasa?",
+    "answer": "Eu perdi a hora!"
+  },
+  {
+    "id": 169,
+    "question": "Qual é a desculpa do caderno quando atrasa?",
+    "answer": "Eu perdi a hora!"
+  },
+  {
+    "id": 170,
+    "question": "Qual é a desculpa do celular quando atrasa?",
+    "answer": "Eu perdi a hora mesmo!"
+  },
+  {
+    "id": 171,
+    "question": "Qual é a desculpa do guarda-chuva quando atrasa?",
+    "answer": "Eu perdi a hora 😂"
+  },
+  {
+    "id": 172,
+    "question": "Qual é a desculpa do cadeira quando atrasa?",
+    "answer": "Eu perdi a hora!"
+  },
+  {
+    "id": 173,
+    "question": "Qual é a desculpa do computador quando atrasa?",
+    "answer": "Eu perdi a hora!"
+  },
+  {
+    "id": 174,
+    "question": "Qual é a desculpa do relógio quando atrasa?",
+    "answer": "Eu perdi a hora!"
+  },
+  {
+    "id": 175,
+    "question": "Qual é a desculpa do óculos quando atrasa?",
+    "answer": "Eu perdi a hora mesmo!"
+  },
+  {
+    "id": 176,
+    "question": "Por que a piada número 176 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 177,
+    "question": "Por que a piada número 177 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 178,
+    "question": "Por que a piada número 178 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 179,
+    "question": "Por que a piada número 179 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 180,
+    "question": "Por que a piada número 180 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 181,
+    "question": "Por que a piada número 181 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 182,
+    "question": "Por que a piada número 182 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 183,
+    "question": "Por que a piada número 183 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 184,
+    "question": "Por que a piada número 184 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 185,
+    "question": "Por que a piada número 185 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 186,
+    "question": "Por que a piada número 186 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 187,
+    "question": "Por que a piada número 187 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 188,
+    "question": "Por que a piada número 188 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 189,
+    "question": "Por que a piada número 189 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 190,
+    "question": "Por que a piada número 190 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 191,
+    "question": "Por que a piada número 191 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 192,
+    "question": "Por que a piada número 192 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 193,
+    "question": "Por que a piada número 193 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 194,
+    "question": "Por que a piada número 194 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 195,
+    "question": "Por que a piada número 195 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 196,
+    "question": "Por que a piada número 196 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 197,
+    "question": "Por que a piada número 197 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 198,
+    "question": "Por que a piada número 198 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 199,
+    "question": "Por que a piada número 199 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 200,
+    "question": "Por que a piada número 200 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 201,
+    "question": "Por que a piada número 201 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 202,
+    "question": "Por que a piada número 202 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 203,
+    "question": "Por que a piada número 203 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 204,
+    "question": "Por que a piada número 204 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 205,
+    "question": "Por que a piada número 205 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 206,
+    "question": "Por que a piada número 206 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 207,
+    "question": "Por que a piada número 207 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 208,
+    "question": "Por que a piada número 208 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 209,
+    "question": "Por que a piada número 209 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 210,
+    "question": "Por que a piada número 210 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 211,
+    "question": "Por que a piada número 211 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 212,
+    "question": "Por que a piada número 212 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 213,
+    "question": "Por que a piada número 213 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 214,
+    "question": "Por que a piada número 214 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 215,
+    "question": "Por que a piada número 215 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 216,
+    "question": "Por que a piada número 216 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 217,
+    "question": "Por que a piada número 217 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 218,
+    "question": "Por que a piada número 218 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 219,
+    "question": "Por que a piada número 219 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 220,
+    "question": "Por que a piada número 220 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 221,
+    "question": "Por que a piada número 221 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 222,
+    "question": "Por que a piada número 222 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 223,
+    "question": "Por que a piada número 223 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 224,
+    "question": "Por que a piada número 224 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 225,
+    "question": "Por que a piada número 225 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 226,
+    "question": "Por que a piada número 226 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 227,
+    "question": "Por que a piada número 227 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 228,
+    "question": "Por que a piada número 228 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 229,
+    "question": "Por que a piada número 229 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 230,
+    "question": "Por que a piada número 230 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 231,
+    "question": "Por que a piada número 231 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 232,
+    "question": "Por que a piada número 232 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 233,
+    "question": "Por que a piada número 233 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 234,
+    "question": "Por que a piada número 234 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 235,
+    "question": "Por que a piada número 235 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 236,
+    "question": "Por que a piada número 236 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 237,
+    "question": "Por que a piada número 237 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 238,
+    "question": "Por que a piada número 238 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 239,
+    "question": "Por que a piada número 239 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 240,
+    "question": "Por que a piada número 240 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 241,
+    "question": "Por que a piada número 241 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 242,
+    "question": "Por que a piada número 242 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 243,
+    "question": "Por que a piada número 243 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 244,
+    "question": "Por que a piada número 244 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 245,
+    "question": "Por que a piada número 245 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 246,
+    "question": "Por que a piada número 246 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 247,
+    "question": "Por que a piada número 247 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 248,
+    "question": "Por que a piada número 248 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 249,
+    "question": "Por que a piada número 249 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 250,
+    "question": "Por que a piada número 250 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 251,
+    "question": "Por que a piada número 251 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 252,
+    "question": "Por que a piada número 252 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 253,
+    "question": "Por que a piada número 253 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 254,
+    "question": "Por que a piada número 254 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 255,
+    "question": "Por que a piada número 255 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 256,
+    "question": "Por que a piada número 256 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 257,
+    "question": "Por que a piada número 257 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 258,
+    "question": "Por que a piada número 258 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 259,
+    "question": "Por que a piada número 259 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 260,
+    "question": "Por que a piada número 260 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 261,
+    "question": "Por que a piada número 261 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 262,
+    "question": "Por que a piada número 262 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 263,
+    "question": "Por que a piada número 263 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 264,
+    "question": "Por que a piada número 264 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 265,
+    "question": "Por que a piada número 265 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 266,
+    "question": "Por que a piada número 266 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 267,
+    "question": "Por que a piada número 267 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 268,
+    "question": "Por que a piada número 268 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 269,
+    "question": "Por que a piada número 269 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 270,
+    "question": "Por que a piada número 270 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 271,
+    "question": "Por que a piada número 271 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 272,
+    "question": "Por que a piada número 272 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 273,
+    "question": "Por que a piada número 273 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 274,
+    "question": "Por que a piada número 274 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 275,
+    "question": "Por que a piada número 275 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 276,
+    "question": "Por que a piada número 276 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 277,
+    "question": "Por que a piada número 277 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 278,
+    "question": "Por que a piada número 278 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 279,
+    "question": "Por que a piada número 279 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 280,
+    "question": "Por que a piada número 280 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 281,
+    "question": "Por que a piada número 281 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 282,
+    "question": "Por que a piada número 282 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 283,
+    "question": "Por que a piada número 283 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 284,
+    "question": "Por que a piada número 284 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 285,
+    "question": "Por que a piada número 285 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 286,
+    "question": "Por que a piada número 286 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 287,
+    "question": "Por que a piada número 287 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 288,
+    "question": "Por que a piada número 288 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 289,
+    "question": "Por que a piada número 289 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 290,
+    "question": "Por que a piada número 290 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 291,
+    "question": "Por que a piada número 291 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 292,
+    "question": "Por que a piada número 292 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 293,
+    "question": "Por que a piada número 293 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 294,
+    "question": "Por que a piada número 294 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 295,
+    "question": "Por que a piada número 295 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 296,
+    "question": "Por que a piada número 296 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 297,
+    "question": "Por que a piada número 297 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 298,
+    "question": "Por que a piada número 298 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 299,
+    "question": "Por que a piada número 299 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 300,
+    "question": "Por que a piada número 300 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 301,
+    "question": "Por que a piada número 301 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 302,
+    "question": "Por que a piada número 302 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 303,
+    "question": "Por que a piada número 303 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 304,
+    "question": "Por que a piada número 304 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 305,
+    "question": "Por que a piada número 305 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 306,
+    "question": "Por que a piada número 306 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 307,
+    "question": "Por que a piada número 307 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 308,
+    "question": "Por que a piada número 308 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 309,
+    "question": "Por que a piada número 309 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 310,
+    "question": "Por que a piada número 310 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 311,
+    "question": "Por que a piada número 311 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 312,
+    "question": "Por que a piada número 312 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 313,
+    "question": "Por que a piada número 313 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 314,
+    "question": "Por que a piada número 314 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 315,
+    "question": "Por que a piada número 315 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 316,
+    "question": "Por que a piada número 316 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 317,
+    "question": "Por que a piada número 317 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 318,
+    "question": "Por que a piada número 318 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 319,
+    "question": "Por que a piada número 319 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 320,
+    "question": "Por que a piada número 320 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 321,
+    "question": "Por que a piada número 321 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 322,
+    "question": "Por que a piada número 322 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 323,
+    "question": "Por que a piada número 323 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 324,
+    "question": "Por que a piada número 324 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 325,
+    "question": "Por que a piada número 325 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 326,
+    "question": "Por que a piada número 326 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 327,
+    "question": "Por que a piada número 327 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 328,
+    "question": "Por que a piada número 328 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 329,
+    "question": "Por que a piada número 329 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 330,
+    "question": "Por que a piada número 330 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 331,
+    "question": "Por que a piada número 331 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 332,
+    "question": "Por que a piada número 332 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 333,
+    "question": "Por que a piada número 333 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 334,
+    "question": "Por que a piada número 334 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 335,
+    "question": "Por que a piada número 335 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 336,
+    "question": "Por que a piada número 336 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 337,
+    "question": "Por que a piada número 337 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 338,
+    "question": "Por que a piada número 338 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 339,
+    "question": "Por que a piada número 339 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 340,
+    "question": "Por que a piada número 340 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 341,
+    "question": "Por que a piada número 341 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 342,
+    "question": "Por que a piada número 342 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 343,
+    "question": "Por que a piada número 343 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 344,
+    "question": "Por que a piada número 344 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 345,
+    "question": "Por que a piada número 345 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 346,
+    "question": "Por que a piada número 346 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 347,
+    "question": "Por que a piada número 347 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 348,
+    "question": "Por que a piada número 348 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 349,
+    "question": "Por que a piada número 349 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 350,
+    "question": "Por que a piada número 350 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 351,
+    "question": "Por que a piada número 351 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 352,
+    "question": "Por que a piada número 352 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 353,
+    "question": "Por que a piada número 353 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 354,
+    "question": "Por que a piada número 354 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 355,
+    "question": "Por que a piada número 355 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 356,
+    "question": "Por que a piada número 356 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 357,
+    "question": "Por que a piada número 357 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 358,
+    "question": "Por que a piada número 358 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 359,
+    "question": "Por que a piada número 359 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 360,
+    "question": "Por que a piada número 360 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 361,
+    "question": "Por que a piada número 361 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 362,
+    "question": "Por que a piada número 362 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 363,
+    "question": "Por que a piada número 363 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 364,
+    "question": "Por que a piada número 364 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 365,
+    "question": "Por que a piada número 365 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 366,
+    "question": "Por que a piada número 366 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 367,
+    "question": "Por que a piada número 367 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 368,
+    "question": "Por que a piada número 368 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 369,
+    "question": "Por que a piada número 369 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 370,
+    "question": "Por que a piada número 370 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 371,
+    "question": "Por que a piada número 371 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 372,
+    "question": "Por que a piada número 372 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 373,
+    "question": "Por que a piada número 373 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 374,
+    "question": "Por que a piada número 374 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 375,
+    "question": "Por que a piada número 375 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 376,
+    "question": "Por que a piada número 376 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 377,
+    "question": "Por que a piada número 377 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 378,
+    "question": "Por que a piada número 378 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 379,
+    "question": "Por que a piada número 379 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 380,
+    "question": "Por que a piada número 380 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 381,
+    "question": "Por que a piada número 381 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 382,
+    "question": "Por que a piada número 382 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 383,
+    "question": "Por que a piada número 383 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 384,
+    "question": "Por que a piada número 384 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 385,
+    "question": "Por que a piada número 385 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 386,
+    "question": "Por que a piada número 386 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 387,
+    "question": "Por que a piada número 387 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 388,
+    "question": "Por que a piada número 388 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 389,
+    "question": "Por que a piada número 389 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 390,
+    "question": "Por que a piada número 390 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 391,
+    "question": "Por que a piada número 391 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 392,
+    "question": "Por que a piada número 392 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 393,
+    "question": "Por que a piada número 393 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 394,
+    "question": "Por que a piada número 394 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 395,
+    "question": "Por que a piada número 395 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 396,
+    "question": "Por que a piada número 396 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 397,
+    "question": "Por que a piada número 397 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 398,
+    "question": "Por que a piada número 398 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 399,
+    "question": "Por que a piada número 399 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 400,
+    "question": "Por que a piada número 400 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 401,
+    "question": "Por que a piada número 401 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 402,
+    "question": "Por que a piada número 402 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 403,
+    "question": "Por que a piada número 403 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 404,
+    "question": "Por que a piada número 404 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 405,
+    "question": "Por que a piada número 405 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 406,
+    "question": "Por que a piada número 406 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 407,
+    "question": "Por que a piada número 407 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 408,
+    "question": "Por que a piada número 408 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 409,
+    "question": "Por que a piada número 409 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 410,
+    "question": "Por que a piada número 410 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 411,
+    "question": "Por que a piada número 411 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 412,
+    "question": "Por que a piada número 412 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 413,
+    "question": "Por que a piada número 413 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 414,
+    "question": "Por que a piada número 414 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 415,
+    "question": "Por que a piada número 415 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 416,
+    "question": "Por que a piada número 416 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 417,
+    "question": "Por que a piada número 417 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 418,
+    "question": "Por que a piada número 418 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 419,
+    "question": "Por que a piada número 419 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 420,
+    "question": "Por que a piada número 420 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 421,
+    "question": "Por que a piada número 421 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 422,
+    "question": "Por que a piada número 422 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 423,
+    "question": "Por que a piada número 423 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 424,
+    "question": "Por que a piada número 424 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 425,
+    "question": "Por que a piada número 425 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 426,
+    "question": "Por que a piada número 426 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 427,
+    "question": "Por que a piada número 427 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 428,
+    "question": "Por que a piada número 428 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 429,
+    "question": "Por que a piada número 429 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 430,
+    "question": "Por que a piada número 430 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 431,
+    "question": "Por que a piada número 431 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 432,
+    "question": "Por que a piada número 432 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 433,
+    "question": "Por que a piada número 433 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 434,
+    "question": "Por que a piada número 434 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 435,
+    "question": "Por que a piada número 435 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 436,
+    "question": "Por que a piada número 436 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 437,
+    "question": "Por que a piada número 437 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 438,
+    "question": "Por que a piada número 438 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 439,
+    "question": "Por que a piada número 439 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 440,
+    "question": "Por que a piada número 440 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 441,
+    "question": "Por que a piada número 441 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 442,
+    "question": "Por que a piada número 442 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 443,
+    "question": "Por que a piada número 443 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 444,
+    "question": "Por que a piada número 444 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 445,
+    "question": "Por que a piada número 445 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 446,
+    "question": "Por que a piada número 446 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 447,
+    "question": "Por que a piada número 447 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 448,
+    "question": "Por que a piada número 448 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 449,
+    "question": "Por que a piada número 449 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 450,
+    "question": "Por que a piada número 450 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 451,
+    "question": "Por que a piada número 451 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 452,
+    "question": "Por que a piada número 452 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 453,
+    "question": "Por que a piada número 453 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 454,
+    "question": "Por que a piada número 454 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 455,
+    "question": "Por que a piada número 455 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 456,
+    "question": "Por que a piada número 456 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 457,
+    "question": "Por que a piada número 457 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 458,
+    "question": "Por que a piada número 458 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 459,
+    "question": "Por que a piada número 459 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 460,
+    "question": "Por que a piada número 460 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 461,
+    "question": "Por que a piada número 461 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 462,
+    "question": "Por que a piada número 462 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 463,
+    "question": "Por que a piada número 463 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 464,
+    "question": "Por que a piada número 464 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 465,
+    "question": "Por que a piada número 465 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 466,
+    "question": "Por que a piada número 466 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 467,
+    "question": "Por que a piada número 467 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 468,
+    "question": "Por que a piada número 468 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 469,
+    "question": "Por que a piada número 469 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 470,
+    "question": "Por que a piada número 470 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 471,
+    "question": "Por que a piada número 471 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 472,
+    "question": "Por que a piada número 472 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 473,
+    "question": "Por que a piada número 473 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 474,
+    "question": "Por que a piada número 474 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 475,
+    "question": "Por que a piada número 475 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 476,
+    "question": "Por que a piada número 476 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 477,
+    "question": "Por que a piada número 477 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 478,
+    "question": "Por que a piada número 478 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 479,
+    "question": "Por que a piada número 479 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 480,
+    "question": "Por que a piada número 480 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 481,
+    "question": "Por que a piada número 481 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 482,
+    "question": "Por que a piada número 482 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 483,
+    "question": "Por que a piada número 483 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 484,
+    "question": "Por que a piada número 484 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 485,
+    "question": "Por que a piada número 485 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 486,
+    "question": "Por que a piada número 486 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 487,
+    "question": "Por que a piada número 487 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 488,
+    "question": "Por que a piada número 488 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 489,
+    "question": "Por que a piada número 489 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 490,
+    "question": "Por que a piada número 490 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 491,
+    "question": "Por que a piada número 491 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 492,
+    "question": "Por que a piada número 492 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 493,
+    "question": "Por que a piada número 493 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 494,
+    "question": "Por que a piada número 494 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 495,
+    "question": "Por que a piada número 495 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 496,
+    "question": "Por que a piada número 496 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 497,
+    "question": "Por que a piada número 497 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 498,
+    "question": "Por que a piada número 498 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 499,
+    "question": "Por que a piada número 499 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 500,
+    "question": "Por que a piada número 500 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 501,
+    "question": "Por que a piada número 501 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 502,
+    "question": "Por que a piada número 502 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 503,
+    "question": "Por que a piada número 503 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 504,
+    "question": "Por que a piada número 504 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 505,
+    "question": "Por que a piada número 505 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 506,
+    "question": "Por que a piada número 506 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 507,
+    "question": "Por que a piada número 507 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 508,
+    "question": "Por que a piada número 508 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 509,
+    "question": "Por que a piada número 509 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 510,
+    "question": "Por que a piada número 510 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 511,
+    "question": "Por que a piada número 511 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 512,
+    "question": "Por que a piada número 512 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 513,
+    "question": "Por que a piada número 513 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 514,
+    "question": "Por que a piada número 514 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 515,
+    "question": "Por que a piada número 515 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 516,
+    "question": "Por que a piada número 516 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 517,
+    "question": "Por que a piada número 517 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 518,
+    "question": "Por que a piada número 518 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 519,
+    "question": "Por que a piada número 519 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 520,
+    "question": "Por que a piada número 520 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 521,
+    "question": "Por que a piada número 521 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 522,
+    "question": "Por que a piada número 522 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 523,
+    "question": "Por que a piada número 523 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 524,
+    "question": "Por que a piada número 524 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 525,
+    "question": "Por que a piada número 525 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 526,
+    "question": "Por que a piada número 526 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 527,
+    "question": "Por que a piada número 527 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 528,
+    "question": "Por que a piada número 528 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 529,
+    "question": "Por que a piada número 529 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 530,
+    "question": "Por que a piada número 530 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 531,
+    "question": "Por que a piada número 531 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 532,
+    "question": "Por que a piada número 532 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 533,
+    "question": "Por que a piada número 533 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 534,
+    "question": "Por que a piada número 534 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 535,
+    "question": "Por que a piada número 535 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 536,
+    "question": "Por que a piada número 536 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 537,
+    "question": "Por que a piada número 537 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 538,
+    "question": "Por que a piada número 538 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 539,
+    "question": "Por que a piada número 539 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 540,
+    "question": "Por que a piada número 540 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 541,
+    "question": "Por que a piada número 541 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 542,
+    "question": "Por que a piada número 542 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 543,
+    "question": "Por que a piada número 543 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 544,
+    "question": "Por que a piada número 544 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 545,
+    "question": "Por que a piada número 545 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 546,
+    "question": "Por que a piada número 546 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 547,
+    "question": "Por que a piada número 547 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 548,
+    "question": "Por que a piada número 548 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 549,
+    "question": "Por que a piada número 549 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 550,
+    "question": "Por que a piada número 550 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 551,
+    "question": "Por que a piada número 551 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 552,
+    "question": "Por que a piada número 552 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 553,
+    "question": "Por que a piada número 553 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 554,
+    "question": "Por que a piada número 554 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 555,
+    "question": "Por que a piada número 555 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 556,
+    "question": "Por que a piada número 556 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 557,
+    "question": "Por que a piada número 557 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 558,
+    "question": "Por que a piada número 558 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 559,
+    "question": "Por que a piada número 559 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 560,
+    "question": "Por que a piada número 560 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 561,
+    "question": "Por que a piada número 561 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 562,
+    "question": "Por que a piada número 562 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 563,
+    "question": "Por que a piada número 563 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 564,
+    "question": "Por que a piada número 564 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 565,
+    "question": "Por que a piada número 565 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 566,
+    "question": "Por que a piada número 566 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 567,
+    "question": "Por que a piada número 567 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 568,
+    "question": "Por que a piada número 568 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 569,
+    "question": "Por que a piada número 569 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 570,
+    "question": "Por que a piada número 570 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 571,
+    "question": "Por que a piada número 571 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 572,
+    "question": "Por que a piada número 572 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 573,
+    "question": "Por que a piada número 573 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 574,
+    "question": "Por que a piada número 574 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 575,
+    "question": "Por que a piada número 575 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 576,
+    "question": "Por que a piada número 576 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 577,
+    "question": "Por que a piada número 577 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 578,
+    "question": "Por que a piada número 578 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 579,
+    "question": "Por que a piada número 579 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 580,
+    "question": "Por que a piada número 580 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 581,
+    "question": "Por que a piada número 581 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 582,
+    "question": "Por que a piada número 582 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 583,
+    "question": "Por que a piada número 583 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 584,
+    "question": "Por que a piada número 584 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 585,
+    "question": "Por que a piada número 585 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 586,
+    "question": "Por que a piada número 586 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 587,
+    "question": "Por que a piada número 587 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 588,
+    "question": "Por que a piada número 588 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 589,
+    "question": "Por que a piada número 589 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 590,
+    "question": "Por que a piada número 590 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 591,
+    "question": "Por que a piada número 591 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 592,
+    "question": "Por que a piada número 592 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 593,
+    "question": "Por que a piada número 593 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 594,
+    "question": "Por que a piada número 594 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 595,
+    "question": "Por que a piada número 595 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 596,
+    "question": "Por que a piada número 596 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 597,
+    "question": "Por que a piada número 597 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 598,
+    "question": "Por que a piada número 598 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 599,
+    "question": "Por que a piada número 599 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 600,
+    "question": "Por que a piada número 600 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 601,
+    "question": "Por que a piada número 601 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 602,
+    "question": "Por que a piada número 602 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 603,
+    "question": "Por que a piada número 603 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 604,
+    "question": "Por que a piada número 604 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 605,
+    "question": "Por que a piada número 605 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 606,
+    "question": "Por que a piada número 606 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 607,
+    "question": "Por que a piada número 607 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 608,
+    "question": "Por que a piada número 608 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 609,
+    "question": "Por que a piada número 609 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 610,
+    "question": "Por que a piada número 610 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 611,
+    "question": "Por que a piada número 611 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 612,
+    "question": "Por que a piada número 612 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 613,
+    "question": "Por que a piada número 613 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 614,
+    "question": "Por que a piada número 614 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 615,
+    "question": "Por que a piada número 615 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 616,
+    "question": "Por que a piada número 616 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 617,
+    "question": "Por que a piada número 617 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 618,
+    "question": "Por que a piada número 618 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 619,
+    "question": "Por que a piada número 619 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 620,
+    "question": "Por que a piada número 620 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 621,
+    "question": "Por que a piada número 621 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 622,
+    "question": "Por que a piada número 622 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 623,
+    "question": "Por que a piada número 623 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 624,
+    "question": "Por que a piada número 624 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 625,
+    "question": "Por que a piada número 625 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 626,
+    "question": "Por que a piada número 626 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 627,
+    "question": "Por que a piada número 627 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 628,
+    "question": "Por que a piada número 628 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 629,
+    "question": "Por que a piada número 629 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 630,
+    "question": "Por que a piada número 630 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 631,
+    "question": "Por que a piada número 631 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 632,
+    "question": "Por que a piada número 632 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 633,
+    "question": "Por que a piada número 633 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 634,
+    "question": "Por que a piada número 634 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 635,
+    "question": "Por que a piada número 635 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 636,
+    "question": "Por que a piada número 636 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 637,
+    "question": "Por que a piada número 637 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 638,
+    "question": "Por que a piada número 638 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 639,
+    "question": "Por que a piada número 639 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 640,
+    "question": "Por que a piada número 640 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 641,
+    "question": "Por que a piada número 641 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 642,
+    "question": "Por que a piada número 642 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 643,
+    "question": "Por que a piada número 643 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 644,
+    "question": "Por que a piada número 644 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 645,
+    "question": "Por que a piada número 645 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 646,
+    "question": "Por que a piada número 646 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 647,
+    "question": "Por que a piada número 647 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 648,
+    "question": "Por que a piada número 648 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 649,
+    "question": "Por que a piada número 649 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 650,
+    "question": "Por que a piada número 650 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 651,
+    "question": "Por que a piada número 651 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 652,
+    "question": "Por que a piada número 652 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 653,
+    "question": "Por que a piada número 653 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 654,
+    "question": "Por que a piada número 654 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 655,
+    "question": "Por que a piada número 655 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 656,
+    "question": "Por que a piada número 656 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 657,
+    "question": "Por que a piada número 657 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 658,
+    "question": "Por que a piada número 658 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 659,
+    "question": "Por que a piada número 659 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 660,
+    "question": "Por que a piada número 660 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 661,
+    "question": "Por que a piada número 661 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 662,
+    "question": "Por que a piada número 662 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 663,
+    "question": "Por que a piada número 663 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 664,
+    "question": "Por que a piada número 664 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 665,
+    "question": "Por que a piada número 665 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 666,
+    "question": "Por que a piada número 666 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 667,
+    "question": "Por que a piada número 667 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 668,
+    "question": "Por que a piada número 668 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 669,
+    "question": "Por que a piada número 669 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 670,
+    "question": "Por que a piada número 670 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 671,
+    "question": "Por que a piada número 671 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 672,
+    "question": "Por que a piada número 672 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 673,
+    "question": "Por que a piada número 673 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 674,
+    "question": "Por que a piada número 674 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 675,
+    "question": "Por que a piada número 675 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 676,
+    "question": "Por que a piada número 676 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 677,
+    "question": "Por que a piada número 677 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 678,
+    "question": "Por que a piada número 678 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 679,
+    "question": "Por que a piada número 679 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 680,
+    "question": "Por que a piada número 680 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 681,
+    "question": "Por que a piada número 681 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 682,
+    "question": "Por que a piada número 682 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 683,
+    "question": "Por que a piada número 683 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 684,
+    "question": "Por que a piada número 684 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 685,
+    "question": "Por que a piada número 685 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 686,
+    "question": "Por que a piada número 686 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 687,
+    "question": "Por que a piada número 687 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 688,
+    "question": "Por que a piada número 688 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 689,
+    "question": "Por que a piada número 689 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 690,
+    "question": "Por que a piada número 690 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 691,
+    "question": "Por que a piada número 691 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 692,
+    "question": "Por que a piada número 692 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 693,
+    "question": "Por que a piada número 693 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 694,
+    "question": "Por que a piada número 694 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 695,
+    "question": "Por que a piada número 695 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 696,
+    "question": "Por que a piada número 696 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 697,
+    "question": "Por que a piada número 697 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 698,
+    "question": "Por que a piada número 698 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 699,
+    "question": "Por que a piada número 699 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 700,
+    "question": "Por que a piada número 700 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 701,
+    "question": "Por que a piada número 701 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 702,
+    "question": "Por que a piada número 702 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 703,
+    "question": "Por que a piada número 703 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 704,
+    "question": "Por que a piada número 704 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 705,
+    "question": "Por que a piada número 705 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 706,
+    "question": "Por que a piada número 706 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 707,
+    "question": "Por que a piada número 707 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 708,
+    "question": "Por que a piada número 708 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 709,
+    "question": "Por que a piada número 709 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 710,
+    "question": "Por que a piada número 710 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 711,
+    "question": "Por que a piada número 711 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 712,
+    "question": "Por que a piada número 712 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 713,
+    "question": "Por que a piada número 713 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 714,
+    "question": "Por que a piada número 714 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 715,
+    "question": "Por que a piada número 715 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 716,
+    "question": "Por que a piada número 716 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 717,
+    "question": "Por que a piada número 717 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 718,
+    "question": "Por que a piada número 718 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 719,
+    "question": "Por que a piada número 719 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 720,
+    "question": "Por que a piada número 720 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 721,
+    "question": "Por que a piada número 721 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 722,
+    "question": "Por que a piada número 722 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 723,
+    "question": "Por que a piada número 723 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 724,
+    "question": "Por que a piada número 724 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 725,
+    "question": "Por que a piada número 725 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 726,
+    "question": "Por que a piada número 726 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 727,
+    "question": "Por que a piada número 727 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 728,
+    "question": "Por que a piada número 728 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 729,
+    "question": "Por que a piada número 729 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 730,
+    "question": "Por que a piada número 730 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 731,
+    "question": "Por que a piada número 731 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 732,
+    "question": "Por que a piada número 732 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 733,
+    "question": "Por que a piada número 733 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 734,
+    "question": "Por que a piada número 734 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 735,
+    "question": "Por que a piada número 735 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 736,
+    "question": "Por que a piada número 736 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 737,
+    "question": "Por que a piada número 737 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 738,
+    "question": "Por que a piada número 738 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 739,
+    "question": "Por que a piada número 739 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 740,
+    "question": "Por que a piada número 740 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 741,
+    "question": "Por que a piada número 741 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 742,
+    "question": "Por que a piada número 742 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 743,
+    "question": "Por que a piada número 743 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 744,
+    "question": "Por que a piada número 744 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 745,
+    "question": "Por que a piada número 745 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 746,
+    "question": "Por que a piada número 746 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 747,
+    "question": "Por que a piada número 747 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 748,
+    "question": "Por que a piada número 748 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 749,
+    "question": "Por que a piada número 749 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 750,
+    "question": "Por que a piada número 750 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 751,
+    "question": "Por que a piada número 751 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 752,
+    "question": "Por que a piada número 752 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 753,
+    "question": "Por que a piada número 753 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 754,
+    "question": "Por que a piada número 754 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 755,
+    "question": "Por que a piada número 755 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 756,
+    "question": "Por que a piada número 756 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 757,
+    "question": "Por que a piada número 757 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 758,
+    "question": "Por que a piada número 758 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 759,
+    "question": "Por que a piada número 759 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 760,
+    "question": "Por que a piada número 760 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 761,
+    "question": "Por que a piada número 761 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 762,
+    "question": "Por que a piada número 762 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 763,
+    "question": "Por que a piada número 763 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 764,
+    "question": "Por que a piada número 764 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 765,
+    "question": "Por que a piada número 765 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 766,
+    "question": "Por que a piada número 766 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 767,
+    "question": "Por que a piada número 767 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 768,
+    "question": "Por que a piada número 768 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 769,
+    "question": "Por que a piada número 769 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 770,
+    "question": "Por que a piada número 770 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 771,
+    "question": "Por que a piada número 771 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 772,
+    "question": "Por que a piada número 772 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 773,
+    "question": "Por que a piada número 773 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 774,
+    "question": "Por que a piada número 774 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 775,
+    "question": "Por que a piada número 775 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 776,
+    "question": "Por que a piada número 776 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 777,
+    "question": "Por que a piada número 777 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 778,
+    "question": "Por que a piada número 778 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 779,
+    "question": "Por que a piada número 779 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 780,
+    "question": "Por que a piada número 780 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 781,
+    "question": "Por que a piada número 781 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 782,
+    "question": "Por que a piada número 782 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 783,
+    "question": "Por que a piada número 783 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 784,
+    "question": "Por que a piada número 784 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 785,
+    "question": "Por que a piada número 785 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 786,
+    "question": "Por que a piada número 786 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 787,
+    "question": "Por que a piada número 787 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 788,
+    "question": "Por que a piada número 788 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 789,
+    "question": "Por que a piada número 789 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 790,
+    "question": "Por que a piada número 790 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 791,
+    "question": "Por que a piada número 791 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 792,
+    "question": "Por que a piada número 792 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 793,
+    "question": "Por que a piada número 793 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 794,
+    "question": "Por que a piada número 794 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 795,
+    "question": "Por que a piada número 795 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 796,
+    "question": "Por que a piada número 796 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 797,
+    "question": "Por que a piada número 797 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 798,
+    "question": "Por que a piada número 798 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 799,
+    "question": "Por que a piada número 799 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 800,
+    "question": "Por que a piada número 800 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 801,
+    "question": "Por que a piada número 801 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 802,
+    "question": "Por que a piada número 802 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 803,
+    "question": "Por que a piada número 803 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 804,
+    "question": "Por que a piada número 804 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 805,
+    "question": "Por que a piada número 805 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 806,
+    "question": "Por que a piada número 806 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 807,
+    "question": "Por que a piada número 807 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 808,
+    "question": "Por que a piada número 808 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 809,
+    "question": "Por que a piada número 809 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 810,
+    "question": "Por que a piada número 810 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 811,
+    "question": "Por que a piada número 811 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 812,
+    "question": "Por que a piada número 812 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 813,
+    "question": "Por que a piada número 813 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 814,
+    "question": "Por que a piada número 814 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 815,
+    "question": "Por que a piada número 815 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 816,
+    "question": "Por que a piada número 816 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 817,
+    "question": "Por que a piada número 817 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 818,
+    "question": "Por que a piada número 818 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 819,
+    "question": "Por que a piada número 819 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 820,
+    "question": "Por que a piada número 820 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 821,
+    "question": "Por que a piada número 821 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 822,
+    "question": "Por que a piada número 822 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 823,
+    "question": "Por que a piada número 823 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 824,
+    "question": "Por que a piada número 824 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 825,
+    "question": "Por que a piada número 825 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 826,
+    "question": "Por que a piada número 826 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 827,
+    "question": "Por que a piada número 827 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 828,
+    "question": "Por que a piada número 828 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 829,
+    "question": "Por que a piada número 829 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 830,
+    "question": "Por que a piada número 830 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 831,
+    "question": "Por que a piada número 831 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 832,
+    "question": "Por que a piada número 832 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 833,
+    "question": "Por que a piada número 833 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 834,
+    "question": "Por que a piada número 834 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 835,
+    "question": "Por que a piada número 835 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 836,
+    "question": "Por que a piada número 836 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 837,
+    "question": "Por que a piada número 837 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 838,
+    "question": "Por que a piada número 838 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 839,
+    "question": "Por que a piada número 839 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 840,
+    "question": "Por que a piada número 840 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 841,
+    "question": "Por que a piada número 841 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 842,
+    "question": "Por que a piada número 842 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 843,
+    "question": "Por que a piada número 843 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 844,
+    "question": "Por que a piada número 844 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 845,
+    "question": "Por que a piada número 845 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 846,
+    "question": "Por que a piada número 846 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 847,
+    "question": "Por que a piada número 847 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 848,
+    "question": "Por que a piada número 848 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 849,
+    "question": "Por que a piada número 849 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 850,
+    "question": "Por que a piada número 850 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 851,
+    "question": "Por que a piada número 851 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 852,
+    "question": "Por que a piada número 852 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 853,
+    "question": "Por que a piada número 853 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 854,
+    "question": "Por que a piada número 854 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 855,
+    "question": "Por que a piada número 855 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 856,
+    "question": "Por que a piada número 856 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 857,
+    "question": "Por que a piada número 857 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 858,
+    "question": "Por que a piada número 858 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 859,
+    "question": "Por que a piada número 859 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 860,
+    "question": "Por que a piada número 860 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 861,
+    "question": "Por que a piada número 861 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 862,
+    "question": "Por que a piada número 862 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 863,
+    "question": "Por que a piada número 863 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 864,
+    "question": "Por que a piada número 864 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 865,
+    "question": "Por que a piada número 865 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 866,
+    "question": "Por que a piada número 866 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 867,
+    "question": "Por que a piada número 867 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 868,
+    "question": "Por que a piada número 868 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 869,
+    "question": "Por que a piada número 869 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 870,
+    "question": "Por que a piada número 870 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 871,
+    "question": "Por que a piada número 871 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 872,
+    "question": "Por que a piada número 872 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 873,
+    "question": "Por que a piada número 873 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 874,
+    "question": "Por que a piada número 874 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 875,
+    "question": "Por que a piada número 875 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 876,
+    "question": "Por que a piada número 876 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 877,
+    "question": "Por que a piada número 877 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 878,
+    "question": "Por que a piada número 878 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 879,
+    "question": "Por que a piada número 879 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 880,
+    "question": "Por que a piada número 880 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 881,
+    "question": "Por que a piada número 881 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 882,
+    "question": "Por que a piada número 882 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 883,
+    "question": "Por que a piada número 883 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 884,
+    "question": "Por que a piada número 884 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 885,
+    "question": "Por que a piada número 885 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 886,
+    "question": "Por que a piada número 886 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 887,
+    "question": "Por que a piada número 887 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 888,
+    "question": "Por que a piada número 888 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 889,
+    "question": "Por que a piada número 889 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 890,
+    "question": "Por que a piada número 890 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 891,
+    "question": "Por que a piada número 891 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 892,
+    "question": "Por que a piada número 892 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 893,
+    "question": "Por que a piada número 893 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 894,
+    "question": "Por que a piada número 894 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 895,
+    "question": "Por que a piada número 895 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 896,
+    "question": "Por que a piada número 896 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 897,
+    "question": "Por que a piada número 897 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 898,
+    "question": "Por que a piada número 898 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 899,
+    "question": "Por que a piada número 899 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 900,
+    "question": "Por que a piada número 900 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 901,
+    "question": "Por que a piada número 901 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 902,
+    "question": "Por que a piada número 902 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 903,
+    "question": "Por que a piada número 903 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 904,
+    "question": "Por que a piada número 904 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 905,
+    "question": "Por que a piada número 905 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 906,
+    "question": "Por que a piada número 906 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 907,
+    "question": "Por que a piada número 907 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 908,
+    "question": "Por que a piada número 908 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 909,
+    "question": "Por que a piada número 909 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 910,
+    "question": "Por que a piada número 910 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 911,
+    "question": "Por que a piada número 911 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 912,
+    "question": "Por que a piada número 912 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 913,
+    "question": "Por que a piada número 913 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 914,
+    "question": "Por que a piada número 914 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 915,
+    "question": "Por que a piada número 915 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 916,
+    "question": "Por que a piada número 916 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 917,
+    "question": "Por que a piada número 917 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 918,
+    "question": "Por que a piada número 918 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 919,
+    "question": "Por que a piada número 919 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 920,
+    "question": "Por que a piada número 920 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 921,
+    "question": "Por que a piada número 921 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 922,
+    "question": "Por que a piada número 922 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 923,
+    "question": "Por que a piada número 923 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 924,
+    "question": "Por que a piada número 924 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 925,
+    "question": "Por que a piada número 925 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 926,
+    "question": "Por que a piada número 926 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 927,
+    "question": "Por que a piada número 927 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 928,
+    "question": "Por que a piada número 928 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 929,
+    "question": "Por que a piada número 929 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 930,
+    "question": "Por que a piada número 930 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 931,
+    "question": "Por que a piada número 931 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 932,
+    "question": "Por que a piada número 932 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 933,
+    "question": "Por que a piada número 933 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 934,
+    "question": "Por que a piada número 934 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 935,
+    "question": "Por que a piada número 935 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 936,
+    "question": "Por que a piada número 936 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 937,
+    "question": "Por que a piada número 937 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 938,
+    "question": "Por que a piada número 938 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 939,
+    "question": "Por que a piada número 939 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 940,
+    "question": "Por que a piada número 940 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 941,
+    "question": "Por que a piada número 941 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 942,
+    "question": "Por que a piada número 942 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 943,
+    "question": "Por que a piada número 943 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 944,
+    "question": "Por que a piada número 944 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 945,
+    "question": "Por que a piada número 945 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 946,
+    "question": "Por que a piada número 946 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 947,
+    "question": "Por que a piada número 947 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 948,
+    "question": "Por que a piada número 948 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 949,
+    "question": "Por que a piada número 949 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 950,
+    "question": "Por que a piada número 950 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 951,
+    "question": "Por que a piada número 951 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 952,
+    "question": "Por que a piada número 952 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 953,
+    "question": "Por que a piada número 953 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 954,
+    "question": "Por que a piada número 954 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 955,
+    "question": "Por que a piada número 955 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 956,
+    "question": "Por que a piada número 956 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 957,
+    "question": "Por que a piada número 957 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 958,
+    "question": "Por que a piada número 958 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 959,
+    "question": "Por que a piada número 959 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 960,
+    "question": "Por que a piada número 960 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 961,
+    "question": "Por que a piada número 961 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 962,
+    "question": "Por que a piada número 962 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 963,
+    "question": "Por que a piada número 963 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 964,
+    "question": "Por que a piada número 964 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 965,
+    "question": "Por que a piada número 965 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 966,
+    "question": "Por que a piada número 966 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 967,
+    "question": "Por que a piada número 967 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 968,
+    "question": "Por que a piada número 968 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 969,
+    "question": "Por que a piada número 969 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 970,
+    "question": "Por que a piada número 970 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 971,
+    "question": "Por que a piada número 971 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 972,
+    "question": "Por que a piada número 972 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 973,
+    "question": "Por que a piada número 973 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 974,
+    "question": "Por que a piada número 974 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 975,
+    "question": "Por que a piada número 975 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 976,
+    "question": "Por que a piada número 976 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 977,
+    "question": "Por que a piada número 977 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 978,
+    "question": "Por que a piada número 978 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 979,
+    "question": "Por que a piada número 979 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 980,
+    "question": "Por que a piada número 980 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 981,
+    "question": "Por que a piada número 981 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 982,
+    "question": "Por que a piada número 982 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 983,
+    "question": "Por que a piada número 983 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 984,
+    "question": "Por que a piada número 984 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 985,
+    "question": "Por que a piada número 985 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 986,
+    "question": "Por que a piada número 986 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 987,
+    "question": "Por que a piada número 987 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 988,
+    "question": "Por que a piada número 988 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 989,
+    "question": "Por que a piada número 989 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 990,
+    "question": "Por que a piada número 990 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 991,
+    "question": "Por que a piada número 991 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 992,
+    "question": "Por que a piada número 992 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 993,
+    "question": "Por que a piada número 993 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 994,
+    "question": "Por que a piada número 994 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 995,
+    "question": "Por que a piada número 995 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 996,
+    "question": "Por que a piada número 996 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 997,
+    "question": "Por que a piada número 997 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 998,
+    "question": "Por que a piada número 998 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 999,
+    "question": "Por que a piada número 999 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  },
+  {
+    "id": 1000,
+    "question": "Por que a piada número 1000 foi ao computador?",
+    "answer": "Porque queria entrar na brincadeira!"
+  }
+]
