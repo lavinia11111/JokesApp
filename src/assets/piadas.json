@@ -1,5 +1,5 @@
 {
-  "total": 500,
+  "total": 501,
   "piadas": [
     {
       "id": 1,
@@ -3000,6 +3000,12 @@
       "categoria": "escola",
       "setup": "O que o estudante disse à biblioteca?",
       "punchline": "Prometo devolver os livros... no próximo semestre."
+    },
+    {
+      "id": 501,
+      "categoria": "loucura",
+      "setup": "Tinha um pintinho que se chamava Relan, e toda vez que chovia",
+      "punchline": "Relan piava"
     }
   ]
 }
